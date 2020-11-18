@@ -250,4 +250,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# eslint cache
+.eslintcache
+
 # End of https://www.toptal.com/developers/gitignore/api/vim,code,react,linux,macos,angular,windows,webstorm,atom
